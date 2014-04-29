@@ -1,0 +1,15 @@
+Create your repository via github.
+Then login to your online account go to settings on your created repository, select collaborators.
+Add your collaborators.
+
+In the git hub program on your PC right click your repository and you can then select open in explorer.
+This will locate your folder, and you can manually add files as you please.
+
+THe procedure to commit change is to click your repository.
+
+Commit requires title and description (click commit).
+After you have commited you need to publish.
+After your have published, you need to sync.
+
+This should be done half daily with all collaborators to ensure good productivity.
+Should there need be an early sync due to active simultaneous collaboration you will need to request someone synchronise earlier.
